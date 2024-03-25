@@ -114,6 +114,7 @@ int main() {
             }
             break;
         default:
+
             cout << "Error: Invalid operator." << endl;
             return 1; // Exit the program with error status
     }
