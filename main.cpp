@@ -113,6 +113,7 @@ int main() {
                 return 1; // Exit the program with error status
             }
             break;
+
         default:
 
             cout << "Error: Invalid operator." << endl;
